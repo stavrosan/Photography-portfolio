@@ -8,6 +8,8 @@ This project is a modern web application built using React, Vite, and Tailwind C
 - Fullscreen mode for photos
 - Cross platform
 
+[![Visit Website](https://img.shields.io/badge/Visit-Website-blue)](https://bridgephotography.netlify.app/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
