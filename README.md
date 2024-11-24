@@ -2,6 +2,12 @@
 
 This project is a modern web application built using React, Vite, and Tailwind CSS. It provides a fast development experience and an efficient, responsive design framework.
 
+## 🚀 Features
+
+- Responsive design for all devices
+- Fullscreen mode for photos
+- Cross platform
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
