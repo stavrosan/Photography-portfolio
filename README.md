@@ -1,6 +1,6 @@
 # React + Vite + Tailwind CSS
 
-This project is a modern web application built using React, Vite, and Tailwind CSS. It provides a fast development experience and an efficient, responsive design framework.
+This project is a modern photography portfolio built using React, Vite, and Tailwind CSS. It provides a fast development experience and an efficient, responsive design framework.
 
 ## 🚀 Features
 
