@@ -8,7 +8,7 @@ This project is a modern photography portfolio built using React, Vite, and Tail
 - Fullscreen mode for photos
 - Cross platform
 
-[![Visit Website](https://img.shields.io/badge/Visit-Website-blue)](https://bridgephotography.netlify.app/)
+[![Visit Website](https://img.shields.io/badge/Visit-Website-blue)](https://bridgestudio.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
